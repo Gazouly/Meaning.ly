@@ -1,4 +1,4 @@
-# lyricsly-app
+# Meaning.ly Translator
 
 ## Project setup
 ```
